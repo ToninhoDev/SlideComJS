@@ -1,0 +1,1 @@
+Foi Criado um Slider usando html5, css3, JS 
